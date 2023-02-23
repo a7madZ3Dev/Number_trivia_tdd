@@ -1,4 +1,4 @@
-# Number_trivia_tdd
+# Number_trivia_tdd 🔢
 
 The objective of this app is to learn about Clean Architecture for Flutter.
 We used the Clean Architecture proposed by Bob Martin and the project is proposed by <a href="https://resocoder.com/">Reso Coder.</a>
